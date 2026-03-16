@@ -13,5 +13,8 @@ I am an undergraduate student majoring in Statistics.
 ## Projects
 - Ethical Risk Modeling in Synthetic Biology
 
-## Contact
-GitHub: https://github.com/wenyuan14
+## Navigation
+- About
+- Projects
+- Study Notes
+- Research Log
