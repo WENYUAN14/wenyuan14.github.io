@@ -1,12 +1,13 @@
 title: Wenyuan Deng
-description: Personal academic homepage
+description: Academic homepage of Wenyuan Deng
 theme: minima
+
+author:
+  name: Wenyuan Deng
+
+github_username: wenyuan14
 
 header_pages:
   - research-log.md
   - projects.md
   - study-notes.md
-
-author:
-  name: Wenyuan Deng
-  github: wenyuan14
