@@ -3,7 +3,6 @@ layout: page
 title: Projects
 ---
 
-# Projects
 
 ## Ethical Risk Modeling in Synthetic Biology
 Project from iGEM competition.
