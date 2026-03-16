@@ -1,9 +1,17 @@
-# Deng
+# Wenyuan Deng
 
-Welcome to my homepage.
+Welcome to my academic homepage.
 
-## About
-Statistics student.
+## About Me
+I am an undergraduate student majoring in Statistics. 
+
+## Research Interests
+- Optimization algorithms
+- Statistical modeling
+- Computational statistics
 
 ## Projects
-- iGEM Ethical Risk Model
+- Ethical Risk Modeling in Synthetic Biology
+
+## Contact
+GitHub: https://github.com/wenyuan14
