@@ -28,4 +28,4 @@ This website records my research progress, study notes, and projects.
 
 - [Projects](projects)
 - [Research Log](research-log)
-- [Study Notes](study-notes)
+- [Reading Notes](reading-notes)
