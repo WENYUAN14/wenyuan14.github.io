@@ -1,20 +1,31 @@
-# Wenyuan Deng
+---
+layout: home
+title: Wenyuan Deng
+---
 
 Welcome to my academic homepage.
 
-## About Me
-I am an undergraduate student majoring in Statistics. 
+I am an undergraduate student majoring in Statistics.  
+This website records my research progress, study notes, and projects.
+
+---
 
 ## Research Interests
+
 - Optimization algorithms
 - Statistical modeling
 - Computational statistics
 
-## Projects
-- Ethical Risk Modeling in Synthetic Biology
+---
 
-## Navigation
-- About
-- Projects
-- Study Notes
-- Research Log
+## Current Work
+
+- Ethical risk modeling in synthetic biology
+
+---
+
+## Pages
+
+- [Projects](projects)
+- [Research Log](research-log)
+- [Study Notes](study-notes)
