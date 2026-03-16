@@ -1,3 +1,4 @@
-# Study Notes
-
-This section records notes from my courses and self-study.
+---
+layout: page
+title: Study Notes
+---
