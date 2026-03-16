@@ -1,3 +1,8 @@
 title: Wenyuan Deng
 description: Personal academic homepage
 theme: minima
+
+header_pages:
+  - research-log.md
+  - projects.md
+  - study-notes.md
